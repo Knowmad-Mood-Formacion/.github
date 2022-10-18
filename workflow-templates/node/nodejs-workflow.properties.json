@@ -1,5 +1,5 @@
 {
   "name": "Node Workflow",
-  "description": "Node Workflow",
+  "description": "Publish to NPM using GitHub Actions",
   "iconName": "nodejs-icon"
 }
